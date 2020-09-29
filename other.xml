@@ -1,0 +1,28 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="C:\Users\jaypr\Anaconda3\envs\pro\python.exe" value="false" />
+        <entry key="C:\Users\jaypr\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+        <entry key="E:\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="C:\Users\jaypr\Anaconda3\envs\pro\python.exe" value="false" />
+        <entry key="C:\Users\jaypr\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+        <entry key="E:\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Python34\python.exe" value="false" />
+        <entry key="C:\Users\jaypr\Anaconda3\envs\pro\python.exe" value="false" />
+        <entry key="C:\Users\jaypr\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+        <entry key="E:\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
